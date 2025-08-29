@@ -113,7 +113,7 @@ const Navbar = () => {
 
             {/* CV Button */}
             <a
-              href="https://drive.google.com/file/d/1_GEC1ZWIGkDHEPAWEfltLM67CNfWtZGQ/view?usp=sharing"
+              href="https://drive.google.com/file/d/1rjB2fMFqrWhqQ88pmLZ2haRmAWDa1t-S/view?usp=sharing"
               target="_blank"
               className="px-4 py-2 rounded-md bg-[#c4f000] text-black font-semibold text-sm hover:bg-[#a8d800] transition"
               data-cursor-hover
